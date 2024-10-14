@@ -1,5 +1,18 @@
 {
-  "tabs": ["Onboard", "Freedom", "Grow", "Users"],
+  "tabs": [
+    {
+      "title": "Onboard"
+    },
+    {
+      "title": "Freedom"
+    },
+    {
+      "title": "Grow"
+    },
+    {
+      "title": "Users"
+    }
+  ],
   "Onboard": [
     {
       "userId": 1,
