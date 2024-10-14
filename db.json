@@ -1,9 +1,21 @@
 {
   "tabs": [
-    { "id": 1, "title": "Onboard" },
-    { "id": 2, "title": "Freedom" },
-    { "id": 3, "title": "Grow" },
-    { "id": 4, "title": "Users" }
+    {
+      "id": 1,
+      "title": "Onboard"
+    },
+    {
+      "id": 2,
+      "title": "Freedom"
+    },
+    {
+      "id": 3,
+      "title": "Grow"
+    },
+    {
+      "id": 4,
+      "title": "Users"
+    }
   ],
   "Onboard": [
     {
