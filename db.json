@@ -1,21 +1,13 @@
 {
   "tabs": [
-    {
-      "title": "Onboard"
-    },
-    {
-      "title": "Freedom"
-    },
-    {
-      "title": "Grow"
-    },
-    {
-      "title": "Users"
-    }
+    { "id": 1, "title": "Onboard" },
+    { "id": 2, "title": "Freedom" },
+    { "id": 3, "title": "Grow" },
+    { "id": 4, "title": "Users" }
   ],
   "Onboard": [
     {
-      "userId": 1,
+      "id": 1,
       "name": "John Doe",
       "accountBalance": 5000,
       "creditScore": 720,
@@ -26,7 +18,7 @@
       }
     },
     {
-      "userId": 2,
+      "id": 2,
       "name": "Jane Smith",
       "accountBalance": 7500,
       "creditScore": 680,
@@ -39,14 +31,14 @@
   ],
   "Freedom": [
     {
-      "goalId": 1,
+      "id": 1,
       "goal": "Save for a house",
       "targetAmount": 30000,
       "currentAmount": 10000,
       "deadline": "2025-12-31"
     },
     {
-      "goalId": 2,
+      "id": 2,
       "goal": "Retirement savings",
       "targetAmount": 500000,
       "currentAmount": 150000,
@@ -55,29 +47,29 @@
   ],
   "Grow": [
     {
-      "ideaId": 1,
+      "id": 1,
       "idea": "Invest in index funds",
       "description": "Consider low-cost index funds for long-term growth."
     },
     {
-      "ideaId": 2,
+      "id": 2,
       "idea": "Start a side business",
       "description": "Explore opportunities in e-commerce or freelancing."
     }
   ],
   "Users": [
     {
-      "userId": 1,
+      "id": 1,
       "name": "John Doe",
       "role": "Admin"
     },
     {
-      "userId": 2,
+      "id": 2,
       "name": "Jane Smith",
       "role": "User"
     },
     {
-      "userId": 3,
+      "id": 3,
       "name": "Alice Johnson",
       "role": "Moderator"
     }
